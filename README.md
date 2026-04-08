@@ -264,6 +264,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://pipedream.com/s.v0/app_Noh9dw/logo/orig" height="14"/> [Slite](https://github.com/fajarmf/slite-mcp) - Model Context Protocol server for Slite integration. Search and retrieve notes, browse note hierarchies, and access content from your Slite workspace.
 - <img src="https://cdn.simpleicons.org/todoist/E44332" height="14"/> [Todoist](https://github.com/abhiz123/todoist-mcp-server) - An MCP server implementation for Todoist, enabling natural language task management.
 - <img src="https://cdn.simpleicons.org/googlekeep/FFBB00" height="14"/> [Google Keep](https://github.com/feuerdev/keep-mcp) - Read, create, update and delete Google Keep notes.
+- 🧠 [omega-memory](https://github.com/omega-memory/omega-memory) - Persistent memory for AI coding agents with semantic search, auto-capture, and cross-session learning. #1 on LongMemEval benchmark (95.4%). Local-first with zero cloud dependency.
 
 <br />
 
